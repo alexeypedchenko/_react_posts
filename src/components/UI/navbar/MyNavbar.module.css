@@ -1,0 +1,21 @@
+.myNavbar {
+  width: 100%;
+  background: #eee;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.myNavbarList {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 100px;
+}
+
+.myNavbarLink {
+  font-size: 16px;
+  margin: 0 5px;
+}
